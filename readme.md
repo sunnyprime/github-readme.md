@@ -59,8 +59,8 @@ For StrikeThrough use ~~Strikethrough~~
    1. Sub order of second ordered list item 1
    2. Sub order of second ordered list item 2
 ```
-#### Unordered Lists
-* Unordered list. 
+
+* Unordered list 
   * Unordered sub-lists 1
   * unordered sub-list 2
 + unorder technique with plus sign
@@ -68,9 +68,25 @@ For StrikeThrough use ~~Strikethrough~~
 ```
 
 #### Unordered Lists
-* Unordered list. 
+* Unordered list 
   * Unordered sub-lists 1
   * unordered sub-list 2
 + unorder technique with plus sign
 - unorder technique with minus sign
+---
+
+### Table
+
+| Title 1 | Title 2 | Title 3 |
+| ------- | :-----:| ------: |
+| Content 1 | content 2 | content 3 |
+| Left | Center | Right |
+| *Italic | `render` | **bold** |
+
+
+We use colon to align the tables
+It is necessary to use three dashes
+
+
+
 
