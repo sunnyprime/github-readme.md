@@ -77,16 +77,41 @@ For StrikeThrough use ~~Strikethrough~~
 
 ### Table
 
+```
 | Title 1 | Title 2 | Title 3 |
 | ------- | :-----:| ------: |
 | Content 1 | content 2 | content 3 |
 | Left | Center | Right |
-| *Italic | `render` | **bold** |
+| *Italic* | `render` | **bold** |
 
 
 We use colon to align the tables
 It is necessary to use three dashes
+```
+
+| Title 1 | Title 2 | Title 3 |
+| ------- | :-----:| ------: |
+| Content 1 | content 2 | content 3 |
+| Left | Center | Right |
+| *Italic* | `render` | **bold** |
 
 
+We use colon to align the tables
+It is necessary to use three dashes
+---
+
+### Blockquotes
+> We use arrow sign to display the blackquotes.
+> This will come on the same line.
+
+Quote break.
+
+> This is a very large line and this wil show how the blacquotes will work if we write  a long line.Here we will use **bold content** and *Italic content*.
+
+---
+
+### Links
+
+Inline links [Google](https://www.google.com)
 
 
