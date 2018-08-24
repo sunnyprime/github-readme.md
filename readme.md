@@ -111,10 +111,21 @@ Quote break.
 ---
 
 ### Links
+```
+Inline links [Google](https://www.google.com)
+
+Inline links with title [Google](https://www.google.com "Google's Homepage").
+
+Use <> sign that automtically turned into link <https://www.google.com>
+```
 
 Inline links [Google](https://www.google.com)
+
 Inline links with title [Google](https://www.google.com "Google's Homepage").
 
 Use <> sign that automtically turned into link <https://www.google.com>
 
+### Images
 
+Logo:
+![](https://www.fixpocket.com/public_assets/uploads/beats/1523422664maxresdefault.jpg =100x100)
