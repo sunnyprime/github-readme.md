@@ -1,33 +1,16 @@
-**1 Title of page**
-# Sample of Title of page
-**code**
+**1 Header**
 ```
-# Sample of Title of page
-```
----
-
-
-**2 Title of contents**
-## Smaple of Title of contents
-**code**
-```
-## Sample of Title of contents
-```
----
-
-
-### 3 Title of paragraph
-```
-### Title of paragraph
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 ```
 
----
-**Writing the code**
-```
-code sample
-```
-```
-```
-your code
-```] remove the brackets
-
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
