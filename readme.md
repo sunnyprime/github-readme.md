@@ -98,6 +98,7 @@ It is necessary to use three dashes
 
 We use colon to align the tables
 It is necessary to use three dashes
+
 ---
 
 ### Blockquotes
