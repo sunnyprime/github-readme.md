@@ -1,5 +1,8 @@
-<<<<<<< HEAD
-#Title of pages
+# HEAD
+```
+# Title of pages 
+```
+
 # Title of pages
 =======
 ## Header
@@ -11,7 +14,7 @@
 ##### H5
 ###### H6
 ```
->>>>>>> 977e81b131422d5c28b82f51fc90add28d7b56e2
+
 
 # H1
 ## H2
